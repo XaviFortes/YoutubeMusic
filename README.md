@@ -10,4 +10,5 @@ This isn't an official Youtube Music Player, it's made for Windows and shortly c
 
 ## OS Support
 Windows 7 or newer
+
 Linux and MacOS (Unix) will be available soon
