@@ -1,7 +1,7 @@
 {
   "name": "youtube-music",
   "app-copyright": "Xavi Fortes",
-  "version": "0.0.0",
+  "version": "0.0.2",
   "description": "App made for Windows, Linux and MacOS. For use YoutubeMusic as a Desktop Application",
   "main": "main.js",
   "scripts": {
